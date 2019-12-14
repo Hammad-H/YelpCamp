@@ -1,2 +1,2 @@
 # YelpCamp
-Following the web developer's bootcamp
+Project from The Web Developer Bootcamp
